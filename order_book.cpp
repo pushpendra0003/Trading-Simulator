@@ -1,4 +1,4 @@
-#learning how to implement an order book in C++ for a trading system. The order book will support adding, canceling, and modifying orders, as well as querying the best bid/ask and depth of the order book at different levels. 
+//learning how to implement an order book in C++ for a trading system. The order book will support adding, canceling, and modifying orders, as well as querying the best bid/ask and depth of the order book at different levels. 
 #include "order_book.h"
 #include <bits/stdc++.h>
 
