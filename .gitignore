@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# IDE and Build folders
+.vscode/
+.vs/
+build/
+CMakeCache.txt
+CMakeFiles/
